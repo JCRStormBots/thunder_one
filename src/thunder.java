@@ -17,8 +17,8 @@ import edu.wpi.first.wpilibj.Talon;
 import edu.wpi.first.wpilibj.Solenoid;
 import edu.wpi.first.wpilibj.Compressor;
 import edu.wpi.first.wpilibj.Timer;
-public class RobotTemplate extends SimpleRobot {
-    public RobotTemplate()
+public class thunder extends SimpleRobot {
+    public thunder()
     {
         comp.start(); //Start the compresspr
     }
